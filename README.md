@@ -1,2 +1,2 @@
-# ndk_demo_text
-ndk开发模版，方便demo开发
+# demo_text
+方便demo开发
